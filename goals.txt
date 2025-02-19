@@ -1,0 +1,5 @@
+1. Learn the basics of programming (data types, variables, control structures, functions)
+2. Choose a programming language and become proficient in it
+3. Build small projects (e.g., calculator, quiz game, to-do list app)
+4. Understand debugging techniques and tools
+5. Learn version control using Git
