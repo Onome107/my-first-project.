@@ -1,5 +1,5 @@
 {
-  "name": "projects",
+  "name": "assignment",
   "version": "1.0.0",
   "description": "node.js",
   "main": "node.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Onome107/my-first-project..git"
   },
-  "author": "",
+  "author": "sadjereo@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Onome107/my-first-project./issues"
